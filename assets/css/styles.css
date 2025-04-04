@@ -609,7 +609,7 @@ footer {
     height: 60px;
     width: auto;
     margin-bottom: 1rem;
-    filter: brightness(0) invert(1); /* Make logo white in footer */
+    filter: brightness(1) invert(0); /* Make logo white in footer */
 }
 
 .footer-links ul {
