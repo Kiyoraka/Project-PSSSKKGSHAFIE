@@ -1,5 +1,6 @@
 # List of ignore folder and files 
 /[Tt]emp/ 
+.github
 # List of ignore files 
 *.exe 
 *.txt 
